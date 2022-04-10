@@ -5,7 +5,6 @@
 <h1 align="center">MeterTickets</h1>
 
 <p aign="center">
-  <p align="center">Decentralized video sharing & social media platform on Ethereum blockchain.</p>
   <p align="center">Landing page website: <a href="https://metertickets.on.fleek.co"></a>https://metertickets.on.fleek.co</p>
   <p align="center">Marketplace website: <a href="http://metertickets-marketplace.vercel.app/"></a>http://metertickets-marketplace.vercel.app/</p>
 </p>
@@ -13,7 +12,7 @@
 <div align="center">
   <!--<img src="https://img.shields.io/github/v/release/AkhileshThite/DTube?color=1FC71F" alt="GitHub release" />-->
   <img src="https://img.shields.io/github/repo-size/akhileshthite/metertickets-marketplace" alt="repo size">
-  <img src="https://img.shields.io/badge/Platform-Polygon-purple.svg" alt="platform">
+  <img src="https://img.shields.io/badge/Platform-Meter-purple.svg" alt="platform">
 </div>
 
 ## Deployed addresses
@@ -61,7 +60,7 @@ yarn
 ```
 
 Create `.secret` and `.env` files, 
-* Put private key of your wallet in `.secret`.
+* Put private key of your wallet account in `.secret`.
 * Put `NEXT_PUBLIC_WORKSPACE_URL=https://rpctest.meter.io/` in `.env` file.
 
 2. Start the local Hardhat node.
