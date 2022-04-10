@@ -6,7 +6,7 @@
 
 <p aign="center">
   <p align="center">Landing page website: <a href="https://metertickets.on.fleek.co"></a>https://metertickets.on.fleek.co</p>
-  <p align="center">Marketplace website: <a href="http://metertickets-marketplace.vercel.app/"></a>http://metertickets-marketplace.vercel.app/</p>
+  <p align="center">Marketplace website: <a href="https://metertickets-marketplace.vercel.app/"></a>http://metertickets-marketplace.vercel.app/</p>
 </p>
 
 <div align="center">
