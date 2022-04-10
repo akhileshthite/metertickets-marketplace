@@ -1,0 +1,30 @@
+body {
+  background-color: black;
+  overflow-x: hidden;
+}
+
+/* scrollbar color */
+/* width */
+::-webkit-scrollbar {
+  width: 7px;
+}
+/* Track */
+::-webkit-scrollbar-track {
+  background-color: black;
+}
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: yellow;
+  border-radius: 4px;
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.scrollbar {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
