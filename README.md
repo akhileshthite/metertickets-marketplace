@@ -6,7 +6,7 @@
 
 <p aign="center">
   <p align="center">Landing page website: <a href="https://metertickets.on.fleek.co"></a>https://metertickets.on.fleek.co</p>
-  <p align="center">Marketplace website: <a href="https://metertickets-marketplace.vercel.app/"></a>https://metertickets-marketplace.vercel.app/</p>
+  <p align="center">Marketplace dapp: <a href="https://metertickets-marketplace.vercel.app/"></a>https://metertickets-marketplace.vercel.app/</p>
 </p>
 
 <div align="center">
@@ -14,14 +14,19 @@
   <img src="https://img.shields.io/badge/Platform-Meter-purple.svg" alt="platform">
 </div>
 
-## Deployed addresses
+## Smart contracts
+### Block explorer links
+* NFT marketplace contract= https://scan-warringstakes.meter.io/address/0x888ec74a70EF2e960a3CCCF22f675FAf7b10796F
+* NFT contract= https://scan-warringstakes.meter.io/address/0xeE6b61dF722C1a2D80C07cC29944Bb6B670f8e57
+
+### Addresses
 ```bash
 0x888ec74a70EF2e960a3CCCF22f675FAf7b10796F
 0xeE6b61dF722C1a2D80C07cC29944Bb6B670f8e57
 ```
 
 ## Run locally
-1. Clone the project locally, change into the directory, and install the dependencies:
+1. Clone the project locally, change into the directory:
 ```bash
 git clone https://github.com/AkhileshThite/metertickets-marketplace
 
