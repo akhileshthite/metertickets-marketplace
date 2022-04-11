@@ -6,7 +6,7 @@
 
 <p aign="center">
   <p align="center">Landing page website: <a href="https://metertickets.on.fleek.co"></a>https://metertickets.on.fleek.co</p>
-  <p align="center">Marketplace website: <a href="https://metertickets-marketplace.vercel.app/"></a>http://metertickets-marketplace.vercel.app/</p>
+  <p align="center">Marketplace website: <a href="https://metertickets-marketplace.vercel.app/"></a>https://metertickets-marketplace.vercel.app/</p>
 </p>
 
 <div align="center">
@@ -16,8 +16,8 @@
 
 ## Deployed addresses
 ```bash
-NFT marketplace contract= 0x888ec74a70EF2e960a3CCCF22f675FAf7b10796F
-NFT contract= 0xeE6b61dF722C1a2D80C07cC29944Bb6B670f8e57
+0x888ec74a70EF2e960a3CCCF22f675FAf7b10796F
+0xeE6b61dF722C1a2D80C07cC29944Bb6B670f8e57
 ```
 
 ## Run locally
